@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjAppKotlin</string>
+    <string name="seja_bem_vindo_anonimus">Seja bem vindo, Anonimus</string>
+    <string name="button">Button</string>
+    <string name="saldo_em_conta">Saldo em conta</string>
+    <string name="atualizado_neste_momento">Atualizado neste momento</string>
+    <string name="transfer_ncias">Transferências</string>
+    <string name="r_150_000_00">R$ 150.000,00</string>
+</resources>
